@@ -128,6 +128,6 @@ MACCs | Parameters | Accuracy (100 ep) | Resolution | blocks | `alpha` | `beta` 
 **10M** |**175K** | **91.5%**| 96x96 |  10| 0.1973| 0.854|  6|  61| 60| 178|    0.468
 **20M** |**358K** | **92.4%**| 89x89 |  15| 0.183|  1.656|  6|  99| 60| 173|    0.577
 
-[1] Mobilenet v2
-[2] EfficientNet
-[3] Mobilenet v3
+[1] [Mobilenet v2](https://arxiv.org/abs/1801.04381)
+[2] [EfficientNet](https://arxiv.org/abs/1905.11946)
+[3] [Mobilenet v3](https://arxiv.org/abs/1905.02244)
