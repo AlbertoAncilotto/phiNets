@@ -115,7 +115,7 @@ The following plot shows (_in log scale!_) the error rate of the networks given 
 ![Image](images/par_macc_log.png)
 
 
-As a wise man once said,[ log scales are for quitters who can't find enough paper to make their point _properly_ ](xkcd.com/1162/) so here's the above plot in linear scale
+As a wise man once said,[ log scales are for quitters who can't find enough paper to make their point _properly_ ](https://xkcd.com/1162/) so here's the above plot in linear scale
 
 ![Image](images/par_macc.png)
 
